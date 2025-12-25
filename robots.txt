@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://chashikajw.github.io/sitemap.xml
